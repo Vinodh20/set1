@@ -1,0 +1,6 @@
+c:\users\vinodh\documents\visual studio 2012\Projects\basic 25 question\question 10\bin\Debug\question 10.exe.config
+c:\users\vinodh\documents\visual studio 2012\Projects\basic 25 question\question 10\bin\Debug\question 10.exe
+c:\users\vinodh\documents\visual studio 2012\Projects\basic 25 question\question 10\bin\Debug\question 10.pdb
+c:\users\vinodh\documents\visual studio 2012\Projects\basic 25 question\question 10\obj\Debug\question 10.exe
+c:\users\vinodh\documents\visual studio 2012\Projects\basic 25 question\question 10\obj\Debug\question 10.pdb
+C:\Users\vinodh\Documents\Visual Studio 2012\Projects\basic 25 question\question 10\obj\Debug\question 10.csprojResolveAssemblyReference.cache

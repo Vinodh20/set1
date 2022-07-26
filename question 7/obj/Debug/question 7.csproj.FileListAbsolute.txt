@@ -1,0 +1,5 @@
+c:\users\vinodh\documents\visual studio 2012\Projects\basic 25 question\question 7\bin\Debug\question 7.exe.config
+c:\users\vinodh\documents\visual studio 2012\Projects\basic 25 question\question 7\bin\Debug\question 7.exe
+c:\users\vinodh\documents\visual studio 2012\Projects\basic 25 question\question 7\bin\Debug\question 7.pdb
+c:\users\vinodh\documents\visual studio 2012\Projects\basic 25 question\question 7\obj\Debug\question 7.exe
+c:\users\vinodh\documents\visual studio 2012\Projects\basic 25 question\question 7\obj\Debug\question 7.pdb
